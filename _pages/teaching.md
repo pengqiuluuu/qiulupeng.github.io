@@ -7,4 +7,5 @@ nav: true
 nav_order: 6
 ---
 
-- EECE 4038C Embedded system design (University of Cincinnati with Prof.Jon Lockhart, 23 Spring)
+University of Cincinnati
+- TA for EECE 4038C Embedded system design (with Prof.Jon Lockhart, 23 Spring)
