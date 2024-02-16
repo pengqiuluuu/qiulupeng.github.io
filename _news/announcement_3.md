@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I begin to study in my master's program at Carnegie Mellon. emoji! :sparkles: :smile:
+I begin to study in my master's program at Carnegie Mellon. :sparkles: :smile:
