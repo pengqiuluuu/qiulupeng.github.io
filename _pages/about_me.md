@@ -28,12 +28,9 @@ If you've heard of the MBTI, then I'm an intp type of person (I'm convinced of i
 
 ### I enjoy the time playing video games
 Both multiplayer games with my friends and independent games myself.
-<div>
-  <table style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td><img src="../assets/img/game1.jpg" alt="Image 1" style="width:100%""></td>
-      <td><img src="../assets/img/game1.jpg" alt="Image 2" style="width:100%""></td>
-      <td><img src="../assets/img/game1.jpg" alt="Image 3" style="width:100%""></td>
-    </tr>
-  </table>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../assets/img/game1.jpg" alt="Image 1" style="height: 200px;">
+  <img src="../assets/img/game2.jpg" alt="Image 2" style="height: 200px;">
+  <img src="../assets/img/game3.jpg" alt="Image 3" style="height: 200px;">
 </div>
