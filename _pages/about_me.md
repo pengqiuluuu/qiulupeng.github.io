@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /personal/
+title: personal
+description:
+nav: true
+nav_order: 8
+---
+
 If you've heard of the MBTI, then I'm an intp type of person (I'm convinced of it myself). However, it doesn't affect my enjoyment of life at all. I am grateful for what life has given me.
 
 ### I love cooking!
