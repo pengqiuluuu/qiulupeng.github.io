@@ -6,4 +6,4 @@ nav: true
 nav_order: 5
 ---
 
-[Link to PDF](../assets/pdf/cv_pdf.pdf)
+[Link to CV](../assets/pdf/cv_pdf.pdf)
