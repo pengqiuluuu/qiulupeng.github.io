@@ -31,9 +31,9 @@ Both multiplayer games with my friends and independent games myself.
 <div>
   <table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <td><img src="../assets/img/1.jpg" alt="Image 1" style="width:100%""></td>
-      <td><img src="../assets/img/1.jpg" alt="Image 2" style="width:100%""></td>
-      <td><img src="../assets/img/1.jpg" alt="Image 3" style="width:100%""></td>
+      <td><img src="../assets/img/game1.jpg" alt="Image 1" style="width:100%""></td>
+      <td><img src="../assets/img/game1.jpg" alt="Image 2" style="width:100%""></td>
+      <td><img src="../assets/img/game1.jpg" alt="Image 3" style="width:100%""></td>
     </tr>
   </table>
 </div>
