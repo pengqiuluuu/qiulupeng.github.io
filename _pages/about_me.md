@@ -28,7 +28,7 @@ If you've heard of the MBTI, then I'm an intp type of person (I'm convinced of i
 <br><be>
 
 ### I enjoy the time playing video games
-Both multiplayer games with my friends and independent games myself.
+Both multiplayer games with my friends and independent games.
 
 <div style="display: flex; justify-content: center; max-width: 400px; align-items: center; margin: auto">
   <table>
