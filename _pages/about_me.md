@@ -3,14 +3,14 @@ If you've heard of the MBTI, then I'm an intp type of person (I'm convinced of i
 I love cooking!
 <table>
   <tr>
-    <td><img src="assets/img/1.jpg" alt="Image 1" style="width:100%"></td>
-    <td><img src="assets/img/1.jpg" alt="Image 2" style="width:100%"></td>
-    <td><img src="assets/img/1.jpg" alt="Image 3" style="width:100%"></td>
+    <td><img src="../assets/img/1.jpg" alt="Image 1" style="width:100%"></td>
+    <td><img src="../assets/img/1.jpg" alt="Image 2" style="width:100%"></td>
+    <td><img src="../assets/img/1.jpg" alt="Image 3" style="width:100%"></td>
   </tr>
   <tr>
-    <td><img src="assets/img/1.jpg" alt="Image 4" style="width:100%"></td>
-    <td><img src="assets/img/1.jpg" alt="Image 5" style="width:100%"></td>
-    <td><img src="assets/img/1.jpg" alt="Image 6" style="width:100%"></td>
+    <td><img src="../assets/img/1.jpg" alt="Image 4" style="width:100%"></td>
+    <td><img src="../assets/img/1.jpg" alt="Image 5" style="width:100%"></td>
+    <td><img src="../assets/img/1.jpg" alt="Image 6" style="width:100%"></td>
   </tr>
 </table>
 
