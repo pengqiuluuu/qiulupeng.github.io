@@ -13,14 +13,14 @@ If you've heard of the MBTI, then I'm an intp type of person (I'm convinced of i
 <div style="display: flex; justify-content: center; max-width: 400px; align-items: center; margin: auto">
   <table>
     <tr>
-      <td><img src="../assets/img/cook1.png" alt="Image 1" style="height: 100px"></td>
-      <td><img src="../assets/img/cook2.png" alt="Image 2" style="height: 100px"></td>
-      <td><img src="../assets/img/cook3.png" alt="Image 3" style="height: 100px"></td>
+      <td><img src="../assets/img/cook1.png" alt="Image 1" style="height: 130px"></td>
+      <td><img src="../assets/img/cook2.png" alt="Image 2" style="height: 130px"></td>
+      <td><img src="../assets/img/cook3.png" alt="Image 3" style="height: 130px"></td>
     </tr>
     <tr>
-      <td><img src="../assets/img/cook4.png" alt="Image 4" style="height: 100px"></td>
-      <td><img src="../assets/img/cook5.png" alt="Image 5" style="height: 100px"></td>
-      <td><img src="../assets/img/cook6.png" alt="Image 6" style="height: 100px"></td>
+      <td><img src="../assets/img/cook4.png" alt="Image 4" style="height: 130px"></td>
+      <td><img src="../assets/img/cook5.png" alt="Image 5" style="height: 130px"></td>
+      <td><img src="../assets/img/cook6.png" alt="Image 6" style="height: 130px"></td>
     </tr>
     </table>
 </div>
