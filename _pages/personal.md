@@ -8,7 +8,7 @@ nav_order: 4
 
 page:
   - align: left
-    content: about_einstein.md
+    content: about_me.md
     image_circular: false # crops the image to make it circular
 
 ---
