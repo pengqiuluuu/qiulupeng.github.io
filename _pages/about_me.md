@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-If you've heard of the MBTI, then I'm an intp type of person (I'm convinced of it myself). However, it doesn't affect my enjoyment of life at all.
+If you've heard of the MBTI, then I'm an intp type of person and enjoying my life.
 
 ### I love cooking!
 <div style="display: flex; justify-content: center; max-width: 400px; align-items: center; margin: auto">
