@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-28 07:59:00-0400
+date: 2024-04-29
 inline: true
 related_posts: false
 ---
 
-I begin to study in my master's program at Carnegie Mellon. :sparkles: :smile:
+I posted an interesting project which is about using LLMs and attack emotion recognition models like GPT, Llama, BERT. 
